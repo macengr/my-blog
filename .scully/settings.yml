@@ -1,0 +1,11 @@
+identifier: l4f4o1jal5r0mew0
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: C:\Users\Karlie McWilliams\Downloads\Code\my-blog
+distFolder: dist/my-blog
+outDir: C:\Users\Karlie McWilliams\Downloads\Code\my-blog\dist\static
+handle404: ''
+allowErrorCollect: false
